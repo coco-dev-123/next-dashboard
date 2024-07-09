@@ -8,10 +8,10 @@ const users = [
     password: '123456',
   },
   {
-    id: '410544b2-4001-4271-9855-fec4b6a6442a',
+    id: '3dca6252-8c08-4f17-8a6c-cb66e86b5e35',
     name: 'Tester',
     email: 'test@gmail.com',
-    password: 'test',
+    password: '123456',
   },
 ];
 
